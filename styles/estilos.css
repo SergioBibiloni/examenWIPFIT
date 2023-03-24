@@ -21,6 +21,7 @@ header {
 	width: 50px;
 	background-color: red;
 	float: left;
+	background-image: url(../img/foto-perfil_2x.webp);
 }
 
 .lilis {
@@ -47,8 +48,9 @@ nav ul li {
 }
 
 nav ul li a {
-	color: #000000;
+	color: WHITE;
 	text-decoration: none;
+
 }
 
 /* Estilos para el contenido principal */
@@ -120,12 +122,14 @@ p {
 	width: 156px;
 	height: 158.16px;
 	background-color: green;
+	background-image: url(../img/IMG3_2x_1.webp);
 }
 
 .imgs2 {
 	width: 156px;
 	height: 158.16px;
 	background-color: green;
+	background-image: url(../img/IMG3_2x_1.webp);
 }
 
 .imgs3 {
@@ -133,6 +137,7 @@ p {
 	width: 156px;
 	height: 158.16px;
 	background-color: green;
+	background-image: url(../img/IMG3_2x_1.webp);
 }
 
 .imgs4 {
@@ -140,6 +145,7 @@ p {
 	width: 200px;
 	height: 172px;
 	background-color: green;
+	background-image: url(../img/IMG3_2x_1.webp);
 }
 
 .imgs5 {
@@ -147,6 +153,7 @@ p {
 	width: 104px;
 	height: 172px;
 	background-color: green;
+	background-image: url(../img/IMG3_2x_1.webp);
 }
 
 .imgs6 {
@@ -154,6 +161,7 @@ p {
 	width: 104px;
 	height: 129px;
 	background-color: green;
+	background-image: url(../img/IMG3_2x_1.webp);
 }
 
 .imgs7 {
@@ -161,6 +169,7 @@ p {
 	width: 198px;
 	height: 129px;
 	background-color: green;
+	background-image: url(../img/IMG3_2x_1.webp);
 }
 
 .imgs8 {
@@ -168,6 +177,7 @@ p {
 	width: 198px;
 	height: 129px;
 	background-color: green;
+	background-image: url(../img/IMG3_2x_1.webp);
 }
 
 .bloque2 {
